@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there I´m Julian :tornado:
 
 <!--
-**Julian-A-A/Julian-A-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/julian.andres.21/)
+<br/>
+👨‍💻 19 Years old  
+👨‍🎓 Studying Software engineer here in Colombia  
+🚧 **Current Project:** [Portafolio](not yet)
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julian-A-A&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-A-A&theme=tokyonight&layout=compact" />
+</a>
+<br/>
