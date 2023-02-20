@@ -13,14 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/julian.andres.21/)
-<br/>
-👨‍💻 19 Years old  
-👨‍🎓 Studying Software engineer here in Colombia  
-🚧 **Current Project:** [Portafolio](not yet)
+
+<h3> &#128104;&#127997;&#8205;&#128187;
+ &nbsp;About Me </h3>
+
+- &#128104;&#127997;&#8205;&#128187;
+ &nbsp; 19 Years old. 
+- 👨‍🎓 &nbsp; Studying Software engineer here in Colombia  
+- 🤔 &nbsp; Exploring new technologies and developing software.
+- 🎓 &nbsp; Studying software engineer.
+- 🌱 &nbsp; Learning more about responsive pages.
+- 🚧 &nbsp; **Current Project:** [Portafolio](not yet)
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julian-A-A&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-A-A&theme=tokyonight&layout=compact" />
 </a>
 <br/>
+
+<h3> &#129309;&#127997;
+ &nbsp;Connect with Me </h3>
+
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/julian.andres.21/)
